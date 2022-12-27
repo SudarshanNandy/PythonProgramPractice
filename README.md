@@ -35,7 +35,7 @@ Basic Python Program – II
 28. Write a python program to calculate LCD of given numbers
 29. Write a python program to calculate the GCD of given numbers.
 30. Write a python program to find all the happy number in between 1 to 100.
-31. Write a python program the given number is Ramnuj number or not.
+31. Write a python program the given number is Hardy-Ramanujan number or not.
 32. Write a python program to find that the given number is Harshad number or not.
 33. Write a python program to find that the given number is a Disarium number or not.
 34. Write a python program to find all the pronic numbers in between 1 to 100.
