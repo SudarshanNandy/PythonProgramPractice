@@ -6,8 +6,7 @@ Basic Python Program - I (Code is inside PPP-I.ipynb file)
 2. Write a python program to calculate the square root of any number.
 3. Write a python program to find the cube of any given number.
 4. Write a python program to convert kilometer to meter and vice versa.
-5.Wrtie a python progrma to check the given number is positive or negative or zero 
-
+5.Wrtie a python progrma to check the given number is positive or negative or zero.
 6. Write a python program to convert the tempareture from centigrade to fahrenheit and vice versa.
 7. Write a python program to swap two numbers.
 8. Write a python to find the minimum and maximum in between two numbers.
