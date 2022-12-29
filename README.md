@@ -51,7 +51,9 @@ Python Program -III (List, string ,dictionary, Tuple and array)
 39. Write a python program to find all even  and odd numbers from the list
 40. Write a python program to count the frequencies of each elements.
 41. Write a python program to copy a the elements of a list to another list.
-42, Write a python program to remove the duplicate elements from a list of elements.
+
+42. Write a python program to remove the duplicate elements from a list of elements.
+
 43. Write a python program to find the largest and smallest elements from the list.
 44. Write a python program to calculate the addition of two matrix.
 45. Write a python program to calculate the subtraction of two matrix.
