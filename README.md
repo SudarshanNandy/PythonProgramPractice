@@ -39,7 +39,7 @@ Basic Python Program – II
 31. Write a python program to find all the happy number in between 1 to 100.
 32. Write a python program the given number is Hardy-Ramanujan number or not.
 33. Write a python program to find that the given number is Harshad number or not.
-34. Write a python program to find that the given number is a Disarium number or not.
+34. Write a python program to find that the given number is a Disarium/unhappy number or not.
 35. Write a python program to find all the pronic numbers in between 1 to 100.
 
 Python Program -III (List, string ,dictionary, Tuple and array)
