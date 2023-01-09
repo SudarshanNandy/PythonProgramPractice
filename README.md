@@ -90,3 +90,11 @@ Python Program -III (List, string ,dictionary, Tuple and array)
 
 
 Python Program -IV (Files)
+Python Program -V (Regular expression)
+76. Write a python program to count the number of sentences in a string.
+77. Write a python program to extraact the dates which followed by Month (in words).
+78. Write a python program to extract the mobile numbers from the file.
+79. Write a python program to find a specific pattern in a given file.
+80. Write a python program whiich will find the maximum and minimum occuring number in a given string.
+81. Write a python program to find the frequencies of each number in a text file.
+82. Write a python program to find the word and character frequency and present in a dataframe.
