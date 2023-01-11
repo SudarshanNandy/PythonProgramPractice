@@ -102,3 +102,5 @@ Python Program -V (Regular expression)
 82. Write a python program to find the word and character frequency and present in a dataframe.
 83. Write a python program to find the word where uppercase letter followd lowercase.
 84. Write a python program to remove the all the character from a given string exept letters and numbers.
+85. Write a python program to find the email id from the given string.
+86. Write a python program to find the website address from a given string.
