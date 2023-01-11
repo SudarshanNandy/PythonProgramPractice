@@ -101,3 +101,4 @@ Python Program -V (Regular expression)
 81. Write a python program to find the frequencies of each number in a text file.
 82. Write a python program to find the word and character frequency and present in a dataframe.
 83. Write a python program to find the word where uppercase letter followd lowercase.
+84. Write a python program to remove the all the character from a given string exept letters and numbers.
