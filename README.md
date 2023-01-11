@@ -100,3 +100,4 @@ Python Program -V (Regular expression)
 80. Write a python program whiich will find the maximum and minimum occuring number in a given string.
 81. Write a python program to find the frequencies of each number in a text file.
 82. Write a python program to find the word and character frequency and present in a dataframe.
+83. Write a python program to find the word where uppercase letter followd lowercase.
